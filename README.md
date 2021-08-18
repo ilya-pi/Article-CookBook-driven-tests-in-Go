@@ -1,6 +1,6 @@
 This is a repo to support a short article I wrote about writing backend table tests.
 
-# CookBook-driver tests in Go
+# CookBook-driven tests in Go
 
 This is a call to test backend implementations utilizing cookbook-driven tests, a remix on top of table tests. If you don't know what table tests are, please first fill in the gap [here](https://blog.golang.org/subtests).
 
